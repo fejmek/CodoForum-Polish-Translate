@@ -5,7 +5,7 @@
   ' Discard draft' => ' Odrzuć wersję roboczą',
   ' Keep me logged in' => ' Zostaw mnie zalogowanym',
   ' as the main topic post' => ' jako główny post',
-  ' characters' => ' characters', 'znaki'
+  ' characters' => ' characters',
   ' for same topic' => ' do tego samego tematu',
   ' mentions.' => ' oznaczenia.',
   ' post(s) from the topic ' => ' post(y) z tematu ',
@@ -273,7 +273,7 @@
   'Some label' => 'Some label',
   'Sort by: ' => 'Sortuj po: ',
   'Sort results by' => 'Sortuj wyniki po',
-  'Start New Topic' => 'Rozpocznij Nowy Temat',
+  'Start New Topic' => 'Nowy Temat',
   'Start typing here . You can use BBcode or Markdown' => 'Zacznij pisać tutaj . Możesz korzystać z BBcode lub Markdown',
   'Statistics' => 'Statystyki',
   'Sub Categories' => 'Podkategorie',
