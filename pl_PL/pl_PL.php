@@ -84,7 +84,7 @@
   'Create topic' => 'Stwórz temat',
   'Current password' => 'Obecne hasło',
   'Daily digest' => 'Daily digest',
-  'Delete' => 'Usuń/Skasuj',
+  'Delete' => 'Usuń',
   'Delete topics' => 'Usuń tematy',
   'Desc' => 'Desc',
   'Describe your idea ...' => 'Opisz swój pomysł ...',
