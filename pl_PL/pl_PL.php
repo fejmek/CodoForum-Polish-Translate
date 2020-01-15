@@ -229,7 +229,7 @@
   'Profile' => 'Profil',
   'Quotes' => 'Cytaty',
   'Recent posts' => 'Najnowsze posty',
-  'Register' => 'Rejesracja',
+  'Register' => 'Rejestracja',
   'Related Topics' => 'Podobne Tematy',
   'Replies' => 'Odpowiedzi',
   'Reply' => 'Odpowiedź',
