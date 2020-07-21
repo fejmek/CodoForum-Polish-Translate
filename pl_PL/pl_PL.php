@@ -470,4 +470,5 @@
   'will be deleted' => 'zostanie usunięty',
   'will make the oldest non-moved post of ' => 'utworzy najstarszy nieprzeniesiony post z ',
   'your previous draft will be discarded.' => 'twój poprzedni projekt zostanie odrzucony.',
-);
+); 
+
